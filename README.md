@@ -3,9 +3,9 @@
 # Motivation
 
 These days we need to develop all kind of applications, some of them are pure 
-client-side where side application where a browser receives a bundled file and 
+client-side where a browser receives a bundled file and 
 compiles it to creates beautiful UI and some of them are pure server-side where 
-all pages are generated on the server because of that whenever we go to another 
+all pages are generated on the server, because of that whenever we go to another 
 page there is a lag. Reason for choosing the server-side because it is good for 
 SEO, but we don't need SEO for all the pages(like dashboard, settings). 
 So we needed a configuration/way to do SEO for some pages and bundle all other 
